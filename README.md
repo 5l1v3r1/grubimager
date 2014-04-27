@@ -1,6 +1,6 @@
 # grubimager
 
-This is a very lightweight webserver which allows you to upload a multiboot compatible flat binary for `grub-mkrescue` and turn into a GRUB-bootable ISO. Simply run the server, upload a file, and a `.iso` file will download pretty quickly!
+This is a very lightweight web-server which allows you to upload a multiboot compatible flat binary for `grub-mkrescue` and turn into a GRUB-bootable ISO. Simply run the server, upload a file, and a `.iso` file will download pretty quickly!
 
 ## Usage
 
