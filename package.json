@@ -1,0 +1,9 @@
+{
+  "name": "grubimager",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.1.x",
+    "coffee-script": "1.7.x",
+    "connect-multiparty": "1.0.x"
+  }
+}
